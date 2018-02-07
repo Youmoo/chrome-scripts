@@ -1,4 +1,4 @@
-chrome-scripts [下载](Chrome%20Scripts.alfredworkflow?raw=true)
+chrome-scripts [download](Chrome%20Scripts.alfredworkflow?raw=true)
 ==============
 
 This alfred3 workflow allows:
